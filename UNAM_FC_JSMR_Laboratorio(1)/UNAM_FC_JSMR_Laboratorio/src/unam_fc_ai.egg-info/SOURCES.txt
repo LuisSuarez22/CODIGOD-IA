@@ -1,0 +1,12 @@
+README.md
+setup.py
+src/unam_fc_ai/__init__.py
+src/unam_fc_ai.egg-info/PKG-INFO
+src/unam_fc_ai.egg-info/SOURCES.txt
+src/unam_fc_ai.egg-info/dependency_links.txt
+src/unam_fc_ai.egg-info/top_level.txt
+src/unam_fc_ai/models/__init__.py
+src/unam_fc_ai/models/regression.py
+src/unam_fc_ai/utils/__init__.py
+src/unam_fc_ai/utils/profiling.py
+tests/test_regression.py
