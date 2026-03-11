@@ -1,5 +1,7 @@
 BFS - Breadth First Search
 
+Suarez Penaloza Luis Alberto 
+
 -------------------------------
 -----PSEUDOCODIGO----------
 
