@@ -1,0 +1,9 @@
+Metadata-Version: 2.4
+Name: unam_fc_ai
+Version: 1.0.0
+Summary: UNAM Faculty of Accounting and Administration AI Library
+Author: UNAM Data Science Class
+Requires-Python: >=3.8
+Dynamic: author
+Dynamic: requires-python
+Dynamic: summary
