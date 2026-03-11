@@ -1,6 +1,20 @@
 BFS - Breadth First Search
 
-Suarez Penaloza Luis Alberto 
+NIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO (UNAM)
+Facultad de Ciencias
+Materia: Inteligencia Artificial
+Docente: Dra. Jessica Sarahi Méndez Rincón
+Ayudante de Laboratorio: Diego Eduardo Peña Villegas
+Alumno: [Suarez Penaloza Luis Alberto]
+Año escolar: 2026-2
+Copyright: (c) 2025 UNAM - MIT License
+Version: 1.0
+This software is for educational purposes.
+The accuracy of the models depends strictly on the quality and preprocessing of the input data.
+
+---
+UNAM IA Library: A professional toolkit for AI developed at UNAM.
+---
 
 -------------------------------
 -----PSEUDOCODIGO----------
