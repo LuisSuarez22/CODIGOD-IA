@@ -17,6 +17,7 @@ UNAM IA Library: A professional toolkit for AI developed at UNAM.
 ---
 
 -------------------------------
+Algoritmo BFS (Breadth First Search) o búsqueda en anchura
 -----PSEUDOCODIGO----------
 
     crear conjunto visitados
